@@ -1,0 +1,24 @@
+{
+  "name": "@liveWorkshop1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphastation/js-be2022-cars.git"
+  },
+  "keywords": [],
+  "author": "VALS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alphastation/js-be2022-cars/issues"
+  },
+  "homepage": "https://github.com/alphastation/js-be2022-cars#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}

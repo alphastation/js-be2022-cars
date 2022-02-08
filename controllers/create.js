@@ -1,7 +1,18 @@
 module.exports = {
-    create(req, res) {
-        // const cars = await req.storage.getAll(req.query);
+    // create(req,res).......................................
+    get(req, res) {
+        res.render('create', { title: 'Create Listing' });
+    },
+    async post(req, res) {
+        const car = {
+            name: req.body.name,
+            description: req.body.description,
+            imageUrl: req.body.imageUrl,
+            price: Number(req.body.price),
+        };
 
-        res.render('create');
+        await req.storage.createCar(car);
+
+        res.redirect('/');
     }
 };

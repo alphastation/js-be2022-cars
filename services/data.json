@@ -1,20 +1,26 @@
 {
-    "2f8ef455-c009": {
-      "name": "Toyota Avensis 1.6i",
-      "description": "Imported from Denmark. 203 000 km with full service history. No blemishes on the paint, well maintained interior, technically sound. Possible lease through leasing company or bank or barter for another car.",
-      "imageUrl": "toyota-avensis.jpg",
-      "price": 11900
-    },
-    "6476da65-f254": {
-      "name": "Subaru Legacy 2.0i 4x4",
-      "description": "202 800 km. Newly imported. Manual transmission. Petrol engine.",
-      "imageUrl": "subaru-legacy.jpg",
-      "price": 3099
-    },
-    "3ba2d888-1ce4": {
-      "name": "VW Golf 1.9 TDI 90ps High-Line",
-      "description": "THE PRICE IS NON-NEGOTIABLE!!! Newly imported, 202 799 km, 90hp diesel. Manual transmission.",
-      "imageUrl": "volkswagen.jpg",
-      "price": 2699
-    }
+  "2f8ef455-c009": {
+    "name": "Toyota Avensis 1.6i",
+    "description": "Imported from Denmark. 203 000 km with full service history. No blemishes on the paint, well maintained interior, technically sound. Possible lease through leasing company or bank or barter for another car.",
+    "imageUrl": "toyota-avensis.jpg",
+    "price": 11900
+  },
+  "6476da65-f254": {
+    "name": "Subaru Legacy 2.0i 4x4",
+    "description": "202 800 km. Newly imported. Manual transmission. Petrol engine.",
+    "imageUrl": "subaru-legacy.jpg",
+    "price": 3099
+  },
+  "3ba2d888-1ce4": {
+    "name": "VW Golf 1.9 TDI 90ps High-Line",
+    "description": "THE PRICE IS NON-NEGOTIABLE!!! Newly imported, 202 799 km, 90hp diesel. Manual transmission.",
+    "imageUrl": "volkswagen.jpg",
+    "price": 2699
+  },
+  "cd7c2373-7a05": {
+    "name": "Peugeot 208 GTi",
+    "description": "Back in the 1980s, the Peugeot 205 GTi took the hot hatch market by storm. It was fast, fun and cheap to buy, while offering all the practicality of the standard car. However, following the disappointing dynamic performance of subsequent Peugeot 206 GTi and 207 GTi models, enthusiasm for GTi-badged Peugeots inevitably waned. Fast forward to 2013 and the Peugeot 208 GTi was introduced, with bold claims that this was the car to recapture the magic of that 80s GTi experience. Powered by a turbocharged 197bhp 1.6-litre engine, the 208 Back in the 1980s, the Peugeot 205 GTi took the hot hatch market by storm. It was fast, fun and cheap to buy, while offering all the practicality of the standard car. However, following the disappointing dynamic performance of subsequent Peugeot 206 GTi and 207 GTi models, enthusiasm for GTi-badged Peugeots inevitably waned. Fast forward to 2013 and the Peugeot 208 GTi was introduced, with bold claims that this was the car to recapture the magic of that 80s GTi experience. Powered by a turbocharged 197bhp 1.6-litre engine, the 208 GTi was aimed squarely at the Renault Clio RS and Ford Fiesta ST. was aimed squarely at the Renault Clio RS and Ford Fiesta ST. ",
+    "imageUrl": "208.jpg",
+    "price": 21000
   }
+}
